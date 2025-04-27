@@ -1,0 +1,266 @@
+{
+  "owner_name": "Owner Information",
+  "owner_address": "John Doe, 123 Maple StreetName",
+  "owner_telephone": "Address",
+  "data": [
+    {
+      "purchase_date": "2021-06-07T00:00:00",
+      "serial_number": "BYWR0VQ3",
+      "description": "Dining",
+      "source_style_area": "Kitchen - Wayfair - Premium",
+      "value": 1331.28
+    },
+    {
+      "purchase_date": "2017-07-24T00:00:00",
+      "serial_number": "Z4WKQAUD",
+      "description": "Set",
+      "source_style_area": "Kitchen Tool - Depot - Compact",
+      "value": 1726.77
+    },
+    {
+      "purchase_date": "2016-08-10T00:00:00",
+      "serial_number": "5DTN8WP1",
+      "description": "Tool",
+      "source_style_area": "Dining Room - Amazon - Modern",
+      "value": 1364.42
+    },
+    {
+      "purchase_date": "2015-03-07T00:00:00",
+      "serial_number": "S1IZ2ORO",
+      "description": "Desk",
+      "source_style_area": "Kitchen - Buy - Compact",
+      "value": 1474.74
+    },
+    {
+      "purchase_date": "2023-04-29T00:00:00",
+      "serial_number": "AE0EWUCB",
+      "description": "Table",
+      "source_style_area": "Garage Dining - Depot - Compact",
+      "value": 1348.12
+    },
+    {
+      "purchase_date": "2020-08-18T00:00:00",
+      "serial_number": "0N0SJGCY",
+      "description": "Room",
+      "source_style_area": "Living - Amazon - Compact",
+      "value": 1384.72
+    },
+    {
+      "purchase_date": "2023-09-16T00:00:00",
+      "serial_number": "V9W3YPMT",
+      "description": "Dining",
+      "source_style_area": "Dining Room - Amazon - Classic",
+      "value": 1151.0
+    },
+    {
+      "purchase_date": "2023-05-31T00:00:00",
+      "serial_number": "ORNZN8KE",
+      "description": "Mixer",
+      "source_style_area": "Bedroom Stand - Buy - Premium",
+      "value": 1109.99
+    },
+    {
+      "purchase_date": "2025-12-15T00:00:00",
+      "serial_number": "O4QZM9OP",
+      "description": "Stand",
+      "source_style_area": "Office - Target - Classic",
+      "value": 1656.82
+    },
+    {
+      "purchase_date": "2019-02-08T00:00:00",
+      "serial_number": "KJQP8H26",
+      "description": "Room",
+      "source_style_area": "Living - Amazon - Premium",
+      "value": 1386.27
+    },
+    {
+      "purchase_date": "2017-12-19T00:00:00",
+      "serial_number": "DENRQBQ6",
+      "description": "TV",
+      "source_style_area": "Office LED - Depot - Premium",
+      "value": 1219.77
+    },
+    {
+      "purchase_date": "2015-07-13T00:00:00",
+      "serial_number": "2CZTWBEN",
+      "description": "Dining",
+      "source_style_area": "Office - Walmart - Modern",
+      "value": 1510.01
+    },
+    {
+      "purchase_date": "2017-04-22T00:00:00",
+      "serial_number": "DCATHJ3H",
+      "description": "Tool",
+      "source_style_area": "Living Room - Wayfair - Premium",
+      "value": 1576.72
+    },
+    {
+      "purchase_date": "2021-05-31T00:00:00",
+      "serial_number": "0VA5WHK9",
+      "description": "LED",
+      "source_style_area": "Kitchen - Amazon - Classic",
+      "value": 1044.09
+    },
+    {
+      "purchase_date": "2017-10-27T00:00:00",
+      "serial_number": "7K0G5I95",
+      "description": "TV",
+      "source_style_area": "Bedroom LED - Buy - Modern",
+      "value": 1677.74
+    },
+    {
+      "purchase_date": "2017-02-10T00:00:00",
+      "serial_number": "X8RLUG3J",
+      "description": "Tool",
+      "source_style_area": "Garage - Target - Premium",
+      "value": 1438.51
+    },
+    {
+      "purchase_date": "2021-09-21T00:00:00",
+      "serial_number": "55DBVC6I",
+      "description": "Set",
+      "source_style_area": "Bedroom Tool - Buy - Modern",
+      "value": 1464.33
+    },
+    {
+      "purchase_date": "2017-08-04T00:00:00",
+      "serial_number": "08RQPP9E",
+      "description": "Table",
+      "source_style_area": "Dining Room Dining - Depot - Classic",
+      "value": 1513.78
+    },
+    {
+      "purchase_date": "2018-10-22T00:00:00",
+      "serial_number": "BHQOC2AK",
+      "description": "TV",
+      "source_style_area": "Office LED - Buy - Compact",
+      "value": 1156.85
+    },
+    {
+      "purchase_date": "2017-04-20T00:00:00",
+      "serial_number": "828ZXE71",
+      "description": "Stand",
+      "source_style_area": "Dining Room - Amazon - Classic",
+      "value": 1129.03
+    },
+    {
+      "purchase_date": "2019-07-13T00:00:00",
+      "serial_number": "Y2O7L2B0",
+      "description": "LED",
+      "source_style_area": "Kitchen - Walmart - Compact",
+      "value": 1394.44
+    },
+    {
+      "purchase_date": "2020-06-12T00:00:00",
+      "serial_number": "E6DYBIWE",
+      "description": "LED",
+      "source_style_area": "Dining Room - Amazon - Modern",
+      "value": 1461.72
+    },
+    {
+      "purchase_date": "2019-12-06T00:00:00",
+      "serial_number": "R5YCRXSQ",
+      "description": "LED",
+      "source_style_area": "Office - Wayfair - Compact",
+      "value": 1273.78
+    },
+    {
+      "purchase_date": "2019-04-13T00:00:00",
+      "serial_number": "NQKV79JA",
+      "description": "Tool",
+      "source_style_area": "Living Room - Target - Premium",
+      "value": 1750.27
+    },
+    {
+      "purchase_date": "2025-03-15T00:00:00",
+      "serial_number": "U0EGB2H1",
+      "description": "TV",
+      "source_style_area": "Office LED - Buy - Premium",
+      "value": 1624.11
+    },
+    {
+      "purchase_date": "2017-03-20T00:00:00",
+      "serial_number": "T96GB8RE",
+      "description": "Tool",
+      "source_style_area": "Living Room - Walmart - Premium",
+      "value": 1873.35
+    },
+    {
+      "purchase_date": "2020-10-24T00:00:00",
+      "serial_number": "EG70TSWM",
+      "description": "Room",
+      "source_style_area": "Dining - Wayfair - Classic",
+      "value": 1747.33
+    },
+    {
+      "purchase_date": "2018-12-01T00:00:00",
+      "serial_number": "2CH0K64T",
+      "description": "Tool",
+      "source_style_area": "Dining Room - Walmart - Compact",
+      "value": 1247.92
+    },
+    {
+      "purchase_date": "2023-09-06T00:00:00",
+      "serial_number": "LE7WASLW",
+      "description": "LED",
+      "source_style_area": "Living Room - Amazon - Compact",
+      "value": 1227.77
+    },
+    {
+      "purchase_date": "2015-05-04T00:00:00",
+      "serial_number": "X89Z8FCM",
+      "description": "Set",
+      "source_style_area": "Dining Room Tool - Depot - Compact",
+      "value": 1632.71
+    },
+    {
+      "purchase_date": "2022-12-07T00:00:00",
+      "serial_number": "81XY8BYB",
+      "description": "Dining",
+      "source_style_area": "Office - Walmart - Classic",
+      "value": 1880.87
+    },
+    {
+      "purchase_date": "2016-08-30T00:00:00",
+      "serial_number": "SFZM6UZB",
+      "description": "Dining",
+      "source_style_area": "Dining Room - Wayfair - Compact",
+      "value": 1240.03
+    },
+    {
+      "purchase_date": "2023-06-02T00:00:00",
+      "serial_number": "QK2VYRQ4",
+      "description": "Dining",
+      "source_style_area": "Bedroom - Wayfair - Modern",
+      "value": 1164.27
+    },
+    {
+      "purchase_date": "2016-04-26T00:00:00",
+      "serial_number": "UNFMT54I",
+      "description": "Table",
+      "source_style_area": "Bedroom Dining - Buy - Classic",
+      "value": 1176.83
+    },
+    {
+      "purchase_date": "2018-04-26T00:00:00",
+      "serial_number": "R920ZMQD",
+      "description": "Mattress",
+      "source_style_area": "Bedroom - Buy - Modern",
+      "value": 1474.32
+    },
+    {
+      "purchase_date": "2018-07-15T00:00:00",
+      "serial_number": "1HI6TR6A",
+      "description": "LED",
+      "source_style_area": "Bedroom - Walmart - Compact",
+      "value": 1741.16
+    },
+    {
+      "purchase_date": "2019-04-16T00:00:00",
+      "serial_number": "DZCH7EWK",
+      "description": "Stand",
+      "source_style_area": "Garage - Walmart - Premium",
+      "value": 1180.74
+    }
+  ]
+}
